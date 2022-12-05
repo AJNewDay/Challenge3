@@ -97,6 +97,7 @@ function writePassword() {
 
 
     passwordText.value = password;
+    var allChars = [];
     return; // exit function 
 }
 
